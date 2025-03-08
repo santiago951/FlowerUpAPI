@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FlowerUpAPI\\FlowerUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|c:\\flowerupapi\\flowerup\\flowerup\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0779A4F3-0A5D-4DE6-B3E5-BF43BF97D506}|FlowerUp\\FlowerUp.csproj|solutionrelative:flowerup\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "FlowerUp\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "FlowerUp\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:59:32.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FlowerUp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FlowerUp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:19:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Program.cs",
+              "RelativeDocumentMoniker": "FlowerUp\\Program.cs",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Program.cs",
+              "RelativeToolTip": "FlowerUp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:48:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FlowerUp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FlowerUp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:37:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FlowerUp\\Models\\User.cs",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Models\\User.cs",
+              "RelativeToolTip": "FlowerUp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:52:33.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "FlowerUp\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "FlowerUp\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:26:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerUp\\appsettings.json",
+              "ToolTip": "C:\\FlowerUpAPI\\FlowerUp\\FlowerUp\\appsettings.json",
+              "RelativeToolTip": "FlowerUp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T00:04:57.309Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

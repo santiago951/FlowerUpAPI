@@ -1,0 +1,6 @@
+@FlowerUp_HostAddress = http://localhost:5230
+
+GET {{FlowerUp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
