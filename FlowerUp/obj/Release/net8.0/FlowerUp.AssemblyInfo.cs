@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowerUp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7cba4aa0cc7572f978195049d21a4eff65ba811")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe800c5c05271ffd748823917a10ca33e7f9e07f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowerUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowerUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

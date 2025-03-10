@@ -343,3 +343,4 @@ C:\FlowerUpAPI\FlowerUp\FlowerUp\obj\Debug\net8.0\refint\FlowerUp.dll
 C:\FlowerUpAPI\FlowerUp\FlowerUp\obj\Debug\net8.0\FlowerUp.pdb
 C:\FlowerUpAPI\FlowerUp\FlowerUp\obj\Debug\net8.0\FlowerUp.genruntimeconfig.cache
 C:\FlowerUpAPI\FlowerUp\FlowerUp\obj\Debug\net8.0\ref\FlowerUp.dll
+C:\FlowerUpAPI\FlowerUp\FlowerUp\obj\Debug\net8.0\FlowerUp.sourcelink.json
